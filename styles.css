@@ -1,1 +1,23 @@
-
+.bar{
+	background-color:rgb(99,159,254);
+	width:500px;
+	height:20px;
+	overflow:hidden;
+	border-radius:10px;
+}
+.progress{
+	background-color:blue;
+	width:80%;
+	height:100%
+}
+.pic{
+	display:flex;
+}
+.main{
+	display:flex;
+	
+}
+.react{
+	display:flex;
+	
+}
